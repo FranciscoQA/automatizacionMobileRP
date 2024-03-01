@@ -1,0 +1,8 @@
+#Directory
+target
+.idea
+
+#Files
+*.iml
+.DS_Store
+src/test/resources/app/*
